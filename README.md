@@ -21,14 +21,14 @@ Users should be able to:
 
 ### Screenshot
 
-[Mobile](images/mobile.png)
+[Mobile](mobile.png)
 
-[Desktop](images/desktop.png)
+[Desktop](desktop.png)
 
 ### Links
 
 - Solution URL: [Github](https://github.com/cornelldev/social-card)
-- Live Site URL: ()
+- Live Site URL: (https://cornelldev.github.io/social-card)
 
 ### Built with
 
