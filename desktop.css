@@ -1,9 +1,8 @@
 /* GLOBAL */
 body {
-    background-image: url(images/bg-pattern-top-desktop.svg), url(bg-pattern-bottom-desktop.svg);
-    background-position: left top, right bottom;
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-image: url(images/bg-pattern-top-desktop.svg), url(images/bg-pattern-bottom-desktop.svg);
+    background-position: -10px -10px, 355px 125px;
+    background-repeat: no-repeat, no-repeat;
 }
 .container {
     display: grid;
